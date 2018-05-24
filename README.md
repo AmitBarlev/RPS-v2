@@ -1,6 +1,4 @@
 # RPS-v2
-Amit Barlev 203384284
-- no partner
 
 FileExternal :
 Win conditions - capture flag or destory all mobile pawns.
